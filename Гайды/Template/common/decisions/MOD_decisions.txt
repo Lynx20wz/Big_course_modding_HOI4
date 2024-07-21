@@ -1,0 +1,22 @@
+name_category = {
+
+
+	decision = {
+		visible = {}
+
+		priority = x
+
+		#icon = 
+
+		available = {}
+
+		complete_effect = {} # эффект при взятии
+
+		modifier = {} # модификатор длящийся days_remove дней
+
+		days_remove = x # сколько будет дейтсвовать модификатор после фзятия решения
+
+		cost = x # стоимость
+	}
+
+}

@@ -1,0 +1,20 @@
+ideas = {
+    country = {
+
+        #mod_idea = {
+        #    allowed = {
+        #        original_tag = 
+        #    }
+
+        #    #picture = GFX
+
+        #    modifier = {
+                
+        #    }
+        #}
+
+
+        
+    }
+}
+

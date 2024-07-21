@@ -1,0 +1,37 @@
+focus_tree = {
+	id = MOD_focus
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			original_tag = MOD
+		}
+	}
+	continuous_focus_position = { x = 100 y = 1500}
+	
+	initial_show_position = {x = 0 y = 0}
+
+	default = no
+
+	#focus = {
+	#	id = MOD_
+	#	#icon = GFX_
+	#	cost = 10
+
+	#	prerequisite = {focus = MOD_}
+	#	mutually_exclusive = {focus = MOD_}
+
+	#	relative_position_id = 
+	#	x = x
+	#	y = x
+
+
+	#	available = {
+
+	#	}
+
+	#	completion_reward = {
+
+	#	}
+	#}
+}
