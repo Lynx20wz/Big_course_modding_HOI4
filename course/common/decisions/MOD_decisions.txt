@@ -1,0 +1,13 @@
+debug = {
+	AUS_lynx_leader = {
+		visible = {always = yes}
+
+		priority = 100
+
+		complete_effect = {
+			retire_ideology_leader = democratic
+			promote_character = AUS_lynx
+			retire_country_leader = yes
+		}
+	}
+}
