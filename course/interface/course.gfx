@@ -1,0 +1,6 @@
+SpriteTypes = {
+    spriteType = {
+        name = GFX_lynx_portrait
+        textureFile = "gfx/leaders/LYN_lynx.dds"
+    }
+}

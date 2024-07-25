@@ -1,0 +1,18 @@
+ideas = {
+    country = {
+
+        mod_iidea = {
+            allowed = {
+                original_tag = 
+            }
+
+            days = 
+            picture = 
+
+            modifier = {
+                
+            }
+        }
+    }
+}
+
