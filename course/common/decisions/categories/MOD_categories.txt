@@ -1,4 +1,0 @@
-debug = {
-	allowed = {original_tag = AUS}
-	priority = 100
-}
